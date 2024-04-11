@@ -1,0 +1,30 @@
+h3{
+    color: rgb(53, 38, 4);
+    font-family: 'Comic Sans MS';
+}
+
+h5{
+    color: rgb(53, 38, 4);
+    font-family: 'Lucida Console';
+}
+
+img{
+    width: 200px;
+    height: auto; 
+}
+
+.animal-body{
+    background-color: rgb(207, 227, 153);
+}
+
+.fb-body{
+    background-color: rgb(248, 224, 204)
+}
+
+.others-body{
+    background-color: rgb(205, 248, 248);
+}
+
+.space-body{
+    background-color:rgb(205, 207, 248);
+}
